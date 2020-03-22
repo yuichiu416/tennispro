@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tennispro/static/css/main.2a99a7c1.chunk.css",
+    "main.js": "/tennispro/static/js/main.69168c6c.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.69168c6c.chunk.js.map",
+    "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
+    "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
+    "static/js/2.de4b57da.chunk.js": "/tennispro/static/js/2.de4b57da.chunk.js",
+    "static/js/2.de4b57da.chunk.js.map": "/tennispro/static/js/2.de4b57da.chunk.js.map",
+    "index.html": "/tennispro/index.html",
+    "precache-manifest.1f35aa0b4a5ff99755437182c03bb5ff.js": "/tennispro/precache-manifest.1f35aa0b4a5ff99755437182c03bb5ff.js",
+    "service-worker.js": "/tennispro/service-worker.js",
+    "static/css/main.2a99a7c1.chunk.css.map": "/tennispro/static/css/main.2a99a7c1.chunk.css.map",
+    "static/js/2.de4b57da.chunk.js.LICENSE.txt": "/tennispro/static/js/2.de4b57da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d892bf8.js",
+    "static/js/2.de4b57da.chunk.js",
+    "static/css/main.2a99a7c1.chunk.css",
+    "static/js/main.69168c6c.chunk.js"
+  ]
+}
