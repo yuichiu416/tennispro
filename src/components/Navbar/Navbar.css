@@ -5,8 +5,11 @@
 }
 .navbar .flex{
     display: flex;
-    height: 100%;
+    height: 80%;
     flex-direction: row;
+}
+.navbar .flex div{
+    margin: auto;
 }
 .navbar *{
     margin: 5px;

@@ -14,10 +14,10 @@ class News extends Component{
         }
     }
     componentDidMount(){
-        this.getResumeData();
+        this.getNewsData();
     }
 
-    getResumeData(){
+    getNewsData(){
         $.ajax({
           url: process.env.PUBLIC_URL + "/newsData.json",
           dataType: "json",
