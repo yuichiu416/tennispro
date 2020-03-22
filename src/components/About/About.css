@@ -1,0 +1,53 @@
+.about{
+    width: 80%;
+    margin: 5% auto;
+    text-align: left;
+}
+.section1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.section1 h3{
+    font-size: 24px;
+}
+.section1 p{
+    font-size: 18px;
+}
+.intro{
+    grid-row: 1;
+    grid-column: 1;
+}
+.intro h3{
+    color: blue;
+}
+.section1 img:first-child{
+    grid-column: 2;
+}
+#outside1{
+    grid-row: 1;
+    grid-column: 2;
+    width: 90%;
+}
+#outside2{
+    grid-row: 2;
+    grid-column: 1;
+    width: 90%;
+}
+#namecard{
+    max-width: 110%;
+    height: auto;
+    grid-row: 2;
+    grid-column: 2;
+}
+.section2 img{
+    width: 48%;
+    padding: 5px;
+}
+.section2 img:last-child{
+    width: 110%;
+}
+.section3 li{
+    font-size: 18px;
+    line-height: 160%;
+    margin: 20px 0;
+}

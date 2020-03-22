@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import News from './components/News';
 import Questions from './components/Questions';
+import About from './components/About';
 import './App.css';
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
         <Sidebar />
         <Switch>
               <Route path="/questions" component={Questions} />
+              <Route path="/about" component={About}/>
+              <Route path="/payment" />
               <Route path="/" component={News} />
         </Switch>      
     </div>

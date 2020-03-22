@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import $ from "jquery";
-import qRCode from './QRCode.jpg';
 import banner from './banner.jpg';
 import map from './map.jpg';
 import PaymentInfo from '../Reused/PaymentInfo';
+import LINE from '../Reused/LINE';
 import "./News.css";
 
 class News extends Component{
@@ -46,10 +46,9 @@ class News extends Component{
             <h1>{newsInfo.hours}</h1>
             <h1>{announces}</h1>
             <br/>
+            
             <br/>
-            <br/>
-            <h2>NEW!! 掃描QR code 加入健揚 LINE 好友:</h2>
-            <img src={qRCode} alt="qr-code" />
+            <LINE />
             <h1>2015年7月1日起部分 球線價格調整如下:</h1>
             <ul className="prices">
                 <li>BG-65 含線帶工<p>290</p>元</li>
