@@ -5,3 +5,11 @@
     list-style: none;
     text-align: left;
 }
+.prices{
+    list-style: none;
+}
+.prices p{
+    display: inline-block;
+    color:blue;
+    font-weight: bold;
+}
