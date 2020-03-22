@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/tennispro/static/css/main.ed3a6490.chunk.css",
-    "main.js": "/tennispro/static/js/main.2da2c718.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.2da2c718.chunk.js.map",
+    "main.css": "/tennispro/static/css/main.047a9296.chunk.css",
+    "main.js": "/tennispro/static/js/main.64040325.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.64040325.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
-    "static/js/2.41adb19e.chunk.js": "/tennispro/static/js/2.41adb19e.chunk.js",
-    "static/js/2.41adb19e.chunk.js.map": "/tennispro/static/js/2.41adb19e.chunk.js.map",
+    "static/js/2.41d34225.chunk.js": "/tennispro/static/js/2.41d34225.chunk.js",
+    "static/js/2.41d34225.chunk.js.map": "/tennispro/static/js/2.41d34225.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.98d9bc4f770f9a454e42f85fbd7f9ff6.js": "/tennispro/precache-manifest.98d9bc4f770f9a454e42f85fbd7f9ff6.js",
+    "precache-manifest.45a5831fa6776eff1004e2c124a61d4e.js": "/tennispro/precache-manifest.45a5831fa6776eff1004e2c124a61d4e.js",
     "service-worker.js": "/tennispro/service-worker.js",
-    "static/css/main.ed3a6490.chunk.css.map": "/tennispro/static/css/main.ed3a6490.chunk.css.map",
-    "static/js/2.41adb19e.chunk.js.LICENSE.txt": "/tennispro/static/js/2.41adb19e.chunk.js.LICENSE.txt",
+    "static/css/main.047a9296.chunk.css.map": "/tennispro/static/css/main.047a9296.chunk.css.map",
+    "static/js/2.41d34225.chunk.js.LICENSE.txt": "/tennispro/static/js/2.41d34225.chunk.js.LICENSE.txt",
     "static/media/QRCode.jpg": "/tennispro/static/media/QRCode.0afab9f2.jpg",
     "static/media/banner.jpg": "/tennispro/static/media/banner.3cbf9fc4.jpg",
+    "static/media/inside1.jpg": "/tennispro/static/media/inside1.5b44c0bb.jpg",
+    "static/media/inside3.jpg": "/tennispro/static/media/inside3.c468ac7f.jpg",
+    "static/media/inside4.jpg": "/tennispro/static/media/inside4.9d131a64.jpg",
+    "static/media/inside5.jpg": "/tennispro/static/media/inside5.a92771a5.jpg",
+    "static/media/inside6.jpg": "/tennispro/static/media/inside6.c468ac7f.jpg",
     "static/media/main.gif": "/tennispro/static/media/main.d5c88b69.gif",
-    "static/media/map.jpg": "/tennispro/static/media/map.cfb17498.jpg"
+    "static/media/map.jpg": "/tennispro/static/media/map.cfb17498.jpg",
+    "static/media/namecard.jpg": "/tennispro/static/media/namecard.37d05348.jpg",
+    "static/media/outside2.jpg": "/tennispro/static/media/outside2.f11a2f2f.jpg",
+    "static/media/rdc-machine.jpg": "/tennispro/static/media/rdc-machine.c7df4b04.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4d892bf8.js",
-    "static/js/2.41adb19e.chunk.js",
-    "static/css/main.ed3a6490.chunk.css",
-    "static/js/main.2da2c718.chunk.js"
+    "static/js/2.41d34225.chunk.js",
+    "static/css/main.047a9296.chunk.css",
+    "static/js/main.64040325.chunk.js"
   ]
 }
