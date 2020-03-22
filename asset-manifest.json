@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/tennispro/static/css/main.b24fc642.chunk.css",
-    "main.js": "/tennispro/static/js/main.db4957e7.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.db4957e7.chunk.js.map",
+    "main.css": "/tennispro/static/css/main.6081b1fb.chunk.css",
+    "main.js": "/tennispro/static/js/main.5b30b886.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.5b30b886.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
-    "static/js/2.32b3189d.chunk.js": "/tennispro/static/js/2.32b3189d.chunk.js",
-    "static/js/2.32b3189d.chunk.js.map": "/tennispro/static/js/2.32b3189d.chunk.js.map",
+    "static/js/2.41adb19e.chunk.js": "/tennispro/static/js/2.41adb19e.chunk.js",
+    "static/js/2.41adb19e.chunk.js.map": "/tennispro/static/js/2.41adb19e.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.ca0634dbc5f8f57dd7d2f16ca951df2c.js": "/tennispro/precache-manifest.ca0634dbc5f8f57dd7d2f16ca951df2c.js",
+    "precache-manifest.be72e059bffd33a9d839db482d4386e2.js": "/tennispro/precache-manifest.be72e059bffd33a9d839db482d4386e2.js",
     "service-worker.js": "/tennispro/service-worker.js",
-    "static/css/main.b24fc642.chunk.css.map": "/tennispro/static/css/main.b24fc642.chunk.css.map",
-    "static/js/2.32b3189d.chunk.js.LICENSE.txt": "/tennispro/static/js/2.32b3189d.chunk.js.LICENSE.txt",
+    "static/css/main.6081b1fb.chunk.css.map": "/tennispro/static/css/main.6081b1fb.chunk.css.map",
+    "static/js/2.41adb19e.chunk.js.LICENSE.txt": "/tennispro/static/js/2.41adb19e.chunk.js.LICENSE.txt",
     "static/media/QRCode.jpg": "/tennispro/static/media/QRCode.0afab9f2.jpg",
     "static/media/banner.jpg": "/tennispro/static/media/banner.3cbf9fc4.jpg",
+    "static/media/main.gif": "/tennispro/static/media/main.d5c88b69.gif",
     "static/media/map.jpg": "/tennispro/static/media/map.cfb17498.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4d892bf8.js",
-    "static/js/2.32b3189d.chunk.js",
-    "static/css/main.b24fc642.chunk.css",
-    "static/js/main.db4957e7.chunk.js"
+    "static/js/2.41adb19e.chunk.js",
+    "static/css/main.6081b1fb.chunk.css",
+    "static/js/main.5b30b886.chunk.js"
   ]
 }
