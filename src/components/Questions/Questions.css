@@ -1,0 +1,13 @@
+.questions{
+    text-align: left;
+}
+.questions h1{
+    color: crimson;
+}
+.questions h2{
+    color: crimson;
+    font-size: 24px;
+}
+.questions ul{
+    list-style: none;
+}

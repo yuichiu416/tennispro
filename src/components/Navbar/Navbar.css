@@ -3,8 +3,19 @@
     grid-column: 1 / span 2;
     grid-row: 1;
 }
-
+.navbar .flex{
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+}
+.navbar *{
+    margin: 5px;
+}
 .navbar div{
     display: inline-block;
     padding: 0 30px;
+}
+.navbar img{
+    height: 50%;
+    display: inline-block;
 }

@@ -2,14 +2,20 @@
     text-align: left;
 }
 .announces{
-    list-style: none;
     text-align: left;
 }
-.prices{
-    list-style: none;
+.news ul{
+    margin: 20px;
 }
 .prices p{
     display: inline-block;
     color:blue;
     font-weight: bold;
+}
+.prices li{
+    margin: 10px;
+    font-size: 24px;
+}
+.h1{
+    font-size: 36px;
 }

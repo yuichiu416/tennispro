@@ -3,6 +3,7 @@ import $ from "jquery";
 import qRCode from './QRCode.jpg';
 import banner from './banner.jpg';
 import map from './map.jpg';
+import PaymentInfo from '../Reused/PaymentInfo';
 import "./News.css";
 
 class News extends Component{
@@ -44,6 +45,9 @@ class News extends Component{
             <img src={banner} alt="logo"/>
             <h1>{newsInfo.hours}</h1>
             <h1>{announces}</h1>
+            <br/>
+            <br/>
+            <br/>
             <h2>NEW!! 掃描QR code 加入健揚 LINE 好友:</h2>
             <img src={qRCode} alt="qr-code" />
             <h1>2015年7月1日起部分 球線價格調整如下:</h1>
@@ -66,35 +70,33 @@ class News extends Component{
             台中市北屯區遼寧路一段207號 (北新國中側門圍牆對面)
             </h1>
             <img src={map} alt="map"/>
-            <h1>新址很寬敞會有較好的接待空間，歡迎球友來新址。<br/>
-                也請您幫忙轉貼此訊息給您通訊錄上的好友，<br />
-                以免來舊址找不到我們，謝謝您
-            </h1>
-            <p>
-                連絡我們：<br />
-                門市地址 : 406台中市北屯區遼寧路一段207號(北新國中側門圍牆對面)<br />
-                電話 : (04)2243-0949<br />
-                手機: 0919-047959<br /> 
-                Line ID: diane531212<br />
-            </p>
-            <p>
-                E-mail(1) : diane531212@yahoo.ca (不是.com.tw喔！)<br />
-                E-mail(2) : cassie1426@yahoo.com.tw<br />
-                E-mail(3) : diane.hu@msa.hinet.net<br />
-                網址 : https://yuichiu416.github.io/tennispro/
-            </p>
-            <p>
-                匯款及ATM轉帳資料 :<br />
-                戶名 : 健揚體育用品社 胡美英<br />
-                銀行 : 彰化銀行 水湳分行<br />
-                ATM金融代號 : 009<br />
-                帳號 : 4035-01-21436-100<br />
-                或郵局帳號<br />
-                戶名: 胡美英<br />
-                ATM金融代號 : 700<br />
-                0141148(局號)0303958(帳號)<br />
-                可用無摺存入免手續費
-            </p>
+            <ul className="h1">
+                <li>新址很寬敞會有較好的接待空間，歡迎球友來新址。</li>
+                <li>也請您幫忙轉貼此訊息給您通訊錄上的好友，</li>
+                <li>以免來舊址找不到我們，謝謝您</li>
+            </ul>
+            <ul>
+                <li><h2>連絡我們：</h2></li>
+                <li>門市地址 : 406台中市北屯區遼寧路一段207號(北新國中側門圍牆對面)</li>
+                <li>電話 : (04)2243-0949</li>
+                <li>手機: 0919-047959</li>
+                <li>Line ID: diane531212</li>
+            </ul>
+            <ul>
+                <li>E-mail(1) : 
+                    <a href="mailto:diane531212@yahoo.ca?Subject=你好%20想請問一下:">
+                    diane531212@yahoo.ca</a> (不是.com.tw喔)
+                </li>
+                <li>E-mail(2) : 
+                    <a href="mailto:cassie1426@yahoo.com.tw?Subject=你好%20想請問一下:">
+                    cassie1426@yahoo.com.tw</a>
+                </li>
+                <li>E-mail(3) : 
+                    <a href="mailto:diane.hu@msa.hinet.net?Subject=你好%20想請問一下:">
+                    diane.hu@msa.hinet.net</a>
+                </li>
+            </ul>
+            <PaymentInfo />
           </div>
         );
     }

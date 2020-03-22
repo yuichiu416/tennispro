@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import News from './components/News';
+import Questions from './components/Questions';
 import './App.css';
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
         <Navbar/>
         <Sidebar />
         <Switch>
-            <Route path="/" component={News}/>
+              <Route path="/questions" component={Questions} />
+              <Route path="/" component={News} />
         </Switch>      
     </div>
   );
