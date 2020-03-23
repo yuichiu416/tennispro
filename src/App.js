@@ -1,5 +1,5 @@
-import React from 'react';
-import { Switch, Route } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { Switch, Route, withRouter } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import News from './components/News';
@@ -12,23 +12,26 @@ import Kawasaki from './components/Grip/Kawasaki';
 import Grip from './components/Grip';
 import './App.css';
 
-function App() {
+const App = props => {
+    useEffect(() => {
+        return props.history.push('/');
+    }, []);
   return (
     <div className="App">
         <Navbar/>
         <Sidebar />
         <Switch>
-              <Route path="/tennispro/questions" component={Questions} />
-              <Route path="/tennispro/about" component={About}/>
-              <Route path="/tennispro/paymentinfo" component={PaymentInfo}/>
-              <Route path="/tennispro/grip/masuka" component={Masuka} />
-              <Route path="/tennispro/grip/blue-star" component={BlueStar} />
-              <Route path="/tennispro/grip/kawasaki" component={Kawasaki} />
-              <Route path="/tennispro/grip" component={Grip} />
-              <Route path="/tennispro" component={News} />
+              <Route path="/questions" component={Questions} />
+              <Route path="/about" component={About}/>
+              <Route path="/paymentinfo" component={PaymentInfo}/>
+              <Route path="/grip/masuka" component={Masuka} />
+              <Route path="/grip/blue-star" component={BlueStar} />
+              <Route path="/grip/kawasaki" component={Kawasaki} />
+              <Route path="/grip" component={Grip} />
+              <Route path="/" component={News} />
         </Switch>      
     </div>
   );
 }
 
-export default App;
+export default withRouter(App);

@@ -12,7 +12,7 @@
     color:blue;
     font-weight: bold;
 }
-.prices li{
+.prices li, .prices p{
     margin: 10px;
     font-size: 24px;
 }
