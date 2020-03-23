@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tennispro/static/css/main.b3d9b0f8.chunk.css",
-    "main.js": "/tennispro/static/js/main.db0ea968.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.db0ea968.chunk.js.map",
+    "main.js": "/tennispro/static/js/main.32f14764.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.32f14764.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
-    "static/js/2.b0ea2845.chunk.js": "/tennispro/static/js/2.b0ea2845.chunk.js",
-    "static/js/2.b0ea2845.chunk.js.map": "/tennispro/static/js/2.b0ea2845.chunk.js.map",
+    "static/js/2.d171b4b4.chunk.js": "/tennispro/static/js/2.d171b4b4.chunk.js",
+    "static/js/2.d171b4b4.chunk.js.map": "/tennispro/static/js/2.d171b4b4.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.54741af227009a80f58690775ef12d22.js": "/tennispro/precache-manifest.54741af227009a80f58690775ef12d22.js",
+    "precache-manifest.165b4a932ee427a1ed9befb0e5cbf5df.js": "/tennispro/precache-manifest.165b4a932ee427a1ed9befb0e5cbf5df.js",
     "service-worker.js": "/tennispro/service-worker.js",
     "static/css/main.b3d9b0f8.chunk.css.map": "/tennispro/static/css/main.b3d9b0f8.chunk.css.map",
-    "static/js/2.b0ea2845.chunk.js.LICENSE.txt": "/tennispro/static/js/2.b0ea2845.chunk.js.LICENSE.txt",
+    "static/js/2.d171b4b4.chunk.js.LICENSE.txt": "/tennispro/static/js/2.d171b4b4.chunk.js.LICENSE.txt",
     "static/media/QRCode.jpg": "/tennispro/static/media/QRCode.0afab9f2.jpg",
     "static/media/banner.jpg": "/tennispro/static/media/banner.3cbf9fc4.jpg",
     "static/media/blue-star.jpg": "/tennispro/static/media/blue-star.c7576416.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4d892bf8.js",
-    "static/js/2.b0ea2845.chunk.js",
+    "static/js/2.d171b4b4.chunk.js",
     "static/css/main.b3d9b0f8.chunk.css",
-    "static/js/main.db0ea968.chunk.js"
+    "static/js/main.32f14764.chunk.js"
   ]
 }
