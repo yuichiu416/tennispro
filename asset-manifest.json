@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tennispro/static/css/main.332f025a.chunk.css",
-    "main.js": "/tennispro/static/js/main.1eebf33d.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.1eebf33d.chunk.js.map",
+    "main.js": "/tennispro/static/js/main.19b58fb7.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.19b58fb7.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
     "static/js/2.e348d498.chunk.js": "/tennispro/static/js/2.e348d498.chunk.js",
     "static/js/2.e348d498.chunk.js.map": "/tennispro/static/js/2.e348d498.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.f82f1d47246cc64e3f7a5fdfef11b981.js": "/tennispro/precache-manifest.f82f1d47246cc64e3f7a5fdfef11b981.js",
+    "precache-manifest.fd50f6d3880686d880318f7ad323c788.js": "/tennispro/precache-manifest.fd50f6d3880686d880318f7ad323c788.js",
     "service-worker.js": "/tennispro/service-worker.js",
     "static/css/main.332f025a.chunk.css.map": "/tennispro/static/css/main.332f025a.chunk.css.map",
     "static/js/2.e348d498.chunk.js.LICENSE.txt": "/tennispro/static/js/2.e348d498.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.4d892bf8.js",
     "static/js/2.e348d498.chunk.js",
     "static/css/main.332f025a.chunk.css",
-    "static/js/main.1eebf33d.chunk.js"
+    "static/js/main.19b58fb7.chunk.js"
   ]
 }
