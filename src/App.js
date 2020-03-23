@@ -10,6 +10,7 @@ import Masuka from './components/Grip/Masuka';
 import BlueStar from './components/Grip/BlueStar';
 import Kawasaki from './components/Grip/Kawasaki';
 import Grip from './components/Grip';
+import BadmintonString from './components/BadmintonString';
 import './App.css';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
               <Route path="/grip/blue-star" component={BlueStar} />
               <Route path="/grip/kawasaki" component={Kawasaki} />
               <Route path="/grip" component={Grip} />
+              <Route path="/badminton-string" component={BadmintonString} />
               <Route path="/" component={News} />
         </Switch>      
     </div>
