@@ -7,7 +7,7 @@ const navBar = () => {
     return (
       <header className="navbar">
             <div className="flex">
-                <img src={main} alt="main" />
+                <Link to="/"><img src={main} alt="main" /></Link>
                 <div>
                     <h1>健揚體育用品社 MASUKA®　　 電話：(04)2243-0949</h1>
                     <h2>營業時間：上午十點至晚上九點，(星期日、一店休)</h2>
