@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Baloo+2:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,700&display=swap');
 .App {
   text-align: center;
   width: 100vw;
@@ -77,6 +77,6 @@ h3{
 p {
     font-size: 14px
 }
-h1, h2, h3, h4, p, ul, li, div{
-    font-family: 'Baloo 2', cursive;
+h1, h2, h3, h4, p, ul, li, div, a{
+    font-family: 'Noto Sans TC', sans-serif;
 }
