@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { Switch, Route, withRouter } from 'react-router-dom';
+import React from 'react';
+import { Switch, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import News from './components/News';
@@ -12,10 +12,7 @@ import Kawasaki from './components/Grip/Kawasaki';
 import Grip from './components/Grip';
 import './App.css';
 
-const App = props => {
-    useEffect(() => {
-        return props.history.push('/');
-    }, []);
+function App() {
   return (
     <div className="App">
         <Navbar/>
@@ -34,4 +31,4 @@ const App = props => {
   );
 }
 
-export default withRouter(App);
+export default App;
