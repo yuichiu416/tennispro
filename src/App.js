@@ -18,14 +18,14 @@ function App() {
         <Navbar/>
         <Sidebar />
         <Switch>
-              <Route path="/questions" component={Questions} />
-              <Route path="/about" component={About}/>
-              <Route path="/paymentinfo" component={PaymentInfo}/>
-              <Route path="/grip/masuka" component={Masuka} />
-              <Route path="/grip/blue-star" component={BlueStar} />
-              <Route path="/grip/kawasaki" component={Kawasaki} />
-              <Route path="/grip" component={Grip} />
-              <Route path="/" component={News} />
+              <Route path="/tennispro/questions" component={Questions} />
+              <Route path="/tennispro/about" component={About}/>
+              <Route path="/tennispro/paymentinfo" component={PaymentInfo}/>
+              <Route path="/tennispro/grip/masuka" component={Masuka} />
+              <Route path="/tennispro/grip/blue-star" component={BlueStar} />
+              <Route path="/tennispro/grip/kawasaki" component={Kawasaki} />
+              <Route path="/tennispro/grip" component={Grip} />
+              <Route path="/tennispro" component={News} />
         </Switch>      
     </div>
   );
