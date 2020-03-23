@@ -5,6 +5,7 @@ import Sidebar from './components/Sidebar';
 import News from './components/News';
 import Questions from './components/Questions';
 import About from './components/About';
+import PaymentInfo from './components/Reused/PaymentInfo';
 import './App.css';
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
         <Switch>
               <Route path="/questions" component={Questions} />
               <Route path="/about" component={About}/>
-              <Route path="/payment" />
+              <Route path="/paymentinfo" component={PaymentInfo}/>
               <Route path="/" component={News} />
         </Switch>      
     </div>

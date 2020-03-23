@@ -4,8 +4,8 @@
 .announces{
     text-align: left;
 }
-.news ul{
-    margin: 20px;
+.news h1, .news img, .news ul{
+    margin: 20px 30px;
 }
 .prices p{
     display: inline-block;

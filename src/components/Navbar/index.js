@@ -21,7 +21,7 @@ const navBar = () => {
                         <Link to="about">關於我們</Link>
                     </div>
                     <div>
-                        <Link to="info">匯款資訊</Link>
+                        <Link to="paymentinfo">匯款資訊</Link>
                     </div>
                 </div>
           </div>

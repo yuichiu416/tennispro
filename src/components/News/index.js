@@ -46,7 +46,6 @@ class News extends Component{
             <h1>{newsInfo.hours}</h1>
             <h1>{announces}</h1>
             <br/>
-            
             <br/>
             <LINE />
             <h1>2015年7月1日起部分 球線價格調整如下:</h1>
@@ -65,7 +64,6 @@ class News extends Component{
                 <li>在健揚買網球線含線帯工價格沒有變動, 即穿工比自己帶線來少<p>50</p>元</li>
             </ul>
             <h1>2014-03-01   健揚已搬遷至:
-
             台中市北屯區遼寧路一段207號 (北新國中側門圍牆對面)
             </h1>
             <img src={map} alt="map"/>
@@ -74,28 +72,7 @@ class News extends Component{
                 <li>也請您幫忙轉貼此訊息給您通訊錄上的好友，</li>
                 <li>以免來舊址找不到我們，謝謝您</li>
             </ul>
-            <ul>
-                <li><h2>連絡我們：</h2></li>
-                <li>門市地址 : 406台中市北屯區遼寧路一段207號(北新國中側門圍牆對面)</li>
-                <li>電話 : (04)2243-0949</li>
-                <li>手機: 0919-047959</li>
-                <li>Line ID: diane531212</li>
-            </ul>
-            <ul>
-                <li>E-mail(1) : 
-                    <a href="mailto:diane531212@yahoo.ca?Subject=你好%20想請問一下:">
-                    diane531212@yahoo.ca</a> (不是.com.tw喔)
-                </li>
-                <li>E-mail(2) : 
-                    <a href="mailto:cassie1426@yahoo.com.tw?Subject=你好%20想請問一下:">
-                    cassie1426@yahoo.com.tw</a>
-                </li>
-                <li>E-mail(3) : 
-                    <a href="mailto:diane.hu@msa.hinet.net?Subject=你好%20想請問一下:">
-                    diane.hu@msa.hinet.net</a>
-                </li>
-            </ul>
-            <PaymentInfo />
+            <PaymentInfo/>
           </div>
         );
     }
