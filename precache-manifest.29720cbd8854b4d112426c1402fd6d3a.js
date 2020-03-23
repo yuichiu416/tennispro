@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9aac4c58828652e47a123e99b865553",
+    "revision": "b364623aeb74fec502ead634bd3f7542",
     "url": "/tennispro/index.html"
   },
   {
-    "revision": "b75c94ffb491dc582d83",
-    "url": "/tennispro/static/css/main.047a9296.chunk.css"
+    "revision": "54349e86e39046939171",
+    "url": "/tennispro/static/css/main.1e5d59f9.chunk.css"
   },
   {
-    "revision": "86df7ef8693f8ed7827f",
-    "url": "/tennispro/static/js/2.41d34225.chunk.js"
+    "revision": "89005a28947a209a3cd0",
+    "url": "/tennispro/static/js/2.a48c8776.chunk.js"
   },
   {
     "revision": "90fb4deb912422b947a6490378160cce",
-    "url": "/tennispro/static/js/2.41d34225.chunk.js.LICENSE.txt"
+    "url": "/tennispro/static/js/2.a48c8776.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b75c94ffb491dc582d83",
-    "url": "/tennispro/static/js/main.64040325.chunk.js"
+    "revision": "54349e86e39046939171",
+    "url": "/tennispro/static/js/main.68db8074.chunk.js"
   },
   {
     "revision": "c4b17494152062dda212",
