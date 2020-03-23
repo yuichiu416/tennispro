@@ -1,0 +1,22 @@
+.masuka{
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    height: fit-content;
+    border: 2px gray solid;
+}
+.masuka img{
+    max-width: 50%;
+}
+.masuka b{
+    display: inline-block;
+    font-weight: bold;
+}
+.masuka li p{
+    display: inline-block;
+    margin: 1% 3%;
+    max-width: 70%;
+}
+.masuka li:nth-child(3), .masuka li:nth-child(4), .masuka li:nth-child(5){
+    margin-left: 12%;
+}
