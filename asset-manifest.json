@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tennispro/static/css/main.b3d9b0f8.chunk.css",
-    "main.js": "/tennispro/static/js/main.32f14764.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.32f14764.chunk.js.map",
+    "main.css": "/tennispro/static/css/main.7e2a8092.chunk.css",
+    "main.js": "/tennispro/static/js/main.7dcf877c.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.7dcf877c.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
     "static/js/2.d171b4b4.chunk.js": "/tennispro/static/js/2.d171b4b4.chunk.js",
     "static/js/2.d171b4b4.chunk.js.map": "/tennispro/static/js/2.d171b4b4.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.165b4a932ee427a1ed9befb0e5cbf5df.js": "/tennispro/precache-manifest.165b4a932ee427a1ed9befb0e5cbf5df.js",
+    "precache-manifest.4d8452b9fcb484ed0bef4854495fb592.js": "/tennispro/precache-manifest.4d8452b9fcb484ed0bef4854495fb592.js",
     "service-worker.js": "/tennispro/service-worker.js",
-    "static/css/main.b3d9b0f8.chunk.css.map": "/tennispro/static/css/main.b3d9b0f8.chunk.css.map",
+    "static/css/main.7e2a8092.chunk.css.map": "/tennispro/static/css/main.7e2a8092.chunk.css.map",
     "static/js/2.d171b4b4.chunk.js.LICENSE.txt": "/tennispro/static/js/2.d171b4b4.chunk.js.LICENSE.txt",
     "static/media/QRCode.jpg": "/tennispro/static/media/QRCode.0afab9f2.jpg",
     "static/media/banner.jpg": "/tennispro/static/media/banner.3cbf9fc4.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d892bf8.js",
     "static/js/2.d171b4b4.chunk.js",
-    "static/css/main.b3d9b0f8.chunk.css",
-    "static/js/main.32f14764.chunk.js"
+    "static/css/main.7e2a8092.chunk.css",
+    "static/js/main.7dcf877c.chunk.js"
   ]
 }
