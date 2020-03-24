@@ -1,5 +1,4 @@
 import React from 'react';
-import './Masuka.css';
 
 const grips = [
     {
