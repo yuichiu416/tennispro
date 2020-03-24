@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/tennispro/static/css/main.736d8a0d.chunk.css",
-    "main.js": "/tennispro/static/js/main.59046bc2.chunk.js",
-    "main.js.map": "/tennispro/static/js/main.59046bc2.chunk.js.map",
+    "main.css": "/tennispro/static/css/main.0fe33dca.chunk.css",
+    "main.js": "/tennispro/static/js/main.49eee26c.chunk.js",
+    "main.js.map": "/tennispro/static/js/main.49eee26c.chunk.js.map",
     "runtime-main.js": "/tennispro/static/js/runtime-main.4d892bf8.js",
     "runtime-main.js.map": "/tennispro/static/js/runtime-main.4d892bf8.js.map",
     "static/js/2.d171b4b4.chunk.js": "/tennispro/static/js/2.d171b4b4.chunk.js",
     "static/js/2.d171b4b4.chunk.js.map": "/tennispro/static/js/2.d171b4b4.chunk.js.map",
     "index.html": "/tennispro/index.html",
-    "precache-manifest.e0c11596ff9b9e61429088bb904fb224.js": "/tennispro/precache-manifest.e0c11596ff9b9e61429088bb904fb224.js",
+    "precache-manifest.cc6fea8f7027860efc5b640d104a33ce.js": "/tennispro/precache-manifest.cc6fea8f7027860efc5b640d104a33ce.js",
     "service-worker.js": "/tennispro/service-worker.js",
-    "static/css/main.736d8a0d.chunk.css.map": "/tennispro/static/css/main.736d8a0d.chunk.css.map",
+    "static/css/main.0fe33dca.chunk.css.map": "/tennispro/static/css/main.0fe33dca.chunk.css.map",
     "static/js/2.d171b4b4.chunk.js.LICENSE.txt": "/tennispro/static/js/2.d171b4b4.chunk.js.LICENSE.txt",
     "static/media/QRCode.jpg": "/tennispro/static/media/QRCode.0afab9f2.jpg",
     "static/media/banner.jpg": "/tennispro/static/media/banner.3cbf9fc4.jpg",
-    "static/media/blue-star.jpg": "/tennispro/static/media/blue-star.c7576416.jpg",
     "static/media/inside1.jpg": "/tennispro/static/media/inside1.5b44c0bb.jpg",
     "static/media/inside3.jpg": "/tennispro/static/media/inside3.c468ac7f.jpg",
     "static/media/inside4.jpg": "/tennispro/static/media/inside4.9d131a64.jpg",
@@ -29,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d892bf8.js",
     "static/js/2.d171b4b4.chunk.js",
-    "static/css/main.736d8a0d.chunk.css",
-    "static/js/main.59046bc2.chunk.js"
+    "static/css/main.0fe33dca.chunk.css",
+    "static/js/main.49eee26c.chunk.js"
   ]
 }

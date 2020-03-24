@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ab503775496f46565d4d12d5440572f",
+    "revision": "316c5b464e58e28282222b8d64596252",
     "url": "/tennispro/index.html"
   },
   {
-    "revision": "47ed738d4f6d0d11c6c3",
-    "url": "/tennispro/static/css/main.736d8a0d.chunk.css"
+    "revision": "30bc9501ba97e09a166d",
+    "url": "/tennispro/static/css/main.0fe33dca.chunk.css"
   },
   {
     "revision": "c0a5188b265af7a7e25b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tennispro/static/js/2.d171b4b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47ed738d4f6d0d11c6c3",
-    "url": "/tennispro/static/js/main.59046bc2.chunk.js"
+    "revision": "30bc9501ba97e09a166d",
+    "url": "/tennispro/static/js/main.49eee26c.chunk.js"
   },
   {
     "revision": "c4b17494152062dda212",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3cbf9fc449e6456d84d508e27fc3d7a2",
     "url": "/tennispro/static/media/banner.3cbf9fc4.jpg"
-  },
-  {
-    "revision": "c7576416ce1ab96b250124bbfe4ab4c1",
-    "url": "/tennispro/static/media/blue-star.c7576416.jpg"
   },
   {
     "revision": "5b44c0bb4a1d0f7a1c0cfe9c15c83e7c",
