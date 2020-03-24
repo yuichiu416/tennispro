@@ -22,3 +22,12 @@
     height: 50%;
     display: inline-block;
 }
+
+@media (min-width: 350px){
+    .navbar h1{
+        font-size: 14px;
+    }
+    .navbar h2{
+        font-size: 12px;
+    }
+}
