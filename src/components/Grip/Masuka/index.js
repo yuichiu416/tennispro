@@ -118,7 +118,7 @@ const masuka = () => {
         const images = grip.images.map(url => <img src={url} alt="img" className="column2" key={url}/>);
         const descriptions = grip.description.map(des => <div key={des}>{des}<br /></div>);
         return (
-            <div className="masuka" key={grip + index}>
+            <div className="item" key={grip + index}>
                 <p><b>品名:</b></p>
                 <p>{grip.name}</p>
                 <p><b>說明:</b></p>

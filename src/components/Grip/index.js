@@ -4,6 +4,7 @@ import masuka from './masuka.gif';
 import blueStar from './blue-star.jpg';
 import kawasaki from './kawasaki.gif';
 import './Grip.css';
+import '../Reused/Item.css';
 
 const grip = () => {
 
