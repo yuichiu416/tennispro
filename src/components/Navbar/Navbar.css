@@ -23,7 +23,7 @@
     display: inline-block;
 }
 
-@media (min-width: 350px){
+@media (max-width:600px) {
     .navbar h1{
         font-size: 14px;
     }
