@@ -30,4 +30,7 @@
     .navbar h2{
         font-size: 12px;
     }
+    .navbar div{
+        padding: 5px;
+    }
 }

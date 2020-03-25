@@ -25,7 +25,6 @@ const navBar = () => {
                     </div>
                 </div>
           </div>
-            <h3>網站重新架構中, 敬請見諒</h3>
       </header>
     );
 };
