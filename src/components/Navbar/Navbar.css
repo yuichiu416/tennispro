@@ -33,4 +33,7 @@
     .navbar div{
         padding: 5px;
     }
+    .navbar img{
+        height: 50%;
+    }
 }
